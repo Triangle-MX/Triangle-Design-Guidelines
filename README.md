@@ -1,1 +1,1 @@
-# Triangle-Design-Guidelines
+# Triangle Design Guidelines
